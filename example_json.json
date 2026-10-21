@@ -1,0 +1,18 @@
+[
+    {
+    "id": 1,
+    "text_on_image": "HOW TO AUTOMATE YOUR AI TOOL LAB",
+    "word_count": 7,
+    "text_position": "left",
+    "face_present": false,
+    "expression": "none",
+    "subject_count": 0,
+    "main_subject": "Large stacked typography",
+    "dominant_colors": ["purple", "white", "yellow"],
+    "background": "gradient",
+    "contrast": "high",
+    "graphic_elements": ["outline/glow", "logo"],
+    "layout": "text-only",
+    "clutter": "minimal"
+  } 
+]

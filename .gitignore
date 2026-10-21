@@ -1,0 +1,6 @@
+datasets/
+skills/
+.DS_Store
+Thumbs.db
+.vscode/
+extracted_patterns/

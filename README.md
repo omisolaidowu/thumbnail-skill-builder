@@ -43,7 +43,7 @@ AI models have file upload limits per prompt. To make analysis fast and clean:
 ---
 
 ## 💰 Looking for the Done-For-You Version?
-If you want to skip the scraping and compilation process entirely, check out the **Pro Kit on Gumroad**, which includes pre-compiled V1 skills, raw image folders, and master JSON datasets across 4 high-RPM niches (AI Automation, Tech Gadgets, Personal Finance, and YouTube Growth): [Insert Gumroad Link Here]
+If you want to skip the scraping and compilation process entirely, check out the **Pro Kit on Gumroad**, which includes pre-compiled V1 skills, raw image folders, and master JSON datasets across 4 high-RPM niches (AI Automation, Tech Gadgets, Personal Finance, and YouTube Growth): [https://omisola7.gumroad.com/l/isdmm]
 
 ## 📝 License
 Distributed under the MIT License. See `LICENSE` for more information.
